@@ -1,0 +1,9 @@
+{
+  "id": "flixlabs-scraper",
+  "name": "FlixLabs Scraper",
+  "version": "1.0.0",
+  "description": "Cove scraper plugin that uses FlixLabs/flix_api",
+  "main": "plugin.js",
+  "author": "Your Name",
+  "license": "MIT"
+}
